@@ -1,0 +1,17 @@
+<!-- tab3.xml -->
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout03"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 绝对布局中的内容 -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="这是绝对布局中的内容"
+        android:layout_x="100dp"
+        android:layout_y="100dp" />
+
+    <!-- 添加其他视图和控件 -->
+
+</AbsoluteLayout>

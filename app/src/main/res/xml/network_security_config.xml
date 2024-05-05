@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">49.232.244.90</domain>
+        <domain includeSubdomains="true">arxiv.org</domain>
+        <domain includeSubdomains="true">127.0.0.1</domain>
+        <domain includeSubdomains="true">192.168.43.154:9091</domain>
+        <domain includeSubdomains="true">192.168.43.154</domain>
+        <domain includeSubdomains="true">10.202.254.109</domain>
+    </domain-config>
+</network-security-config>
